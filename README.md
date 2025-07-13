@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Jacky
 
-🎮 Aspiring Unity Developer | Self-taught programmer with a focus on C# and game development  
-🧠 Currently exploring Unity 2D game mechanics, UI systems, and basic tool building  
-📂 Projects: Flappy Bird Clone, Breakout Clone, and basic tools using C++, JS, HTML/CSS  
-🔧 Learning: Git, version control, modular architecture, and game design patterns
-
-🌱 I'm always learning and building. Feel free to check out my work below!
+🎮 I'm a self-motivated learner, building a programming foundation through hands-on practice and iterative development.  
+🌱 I'm currently focused on C# and Unity to understand core programming concepts, architecture, and interactive systems.  
+🧠 I'm interested in practical software development, from simple UI flows to small productivity or logic-based tools.  
+🔧 I'm using GitHub to manage projects, document learning, and stay consistent in improving code structure and workflow.
 
 <!--
 **SpadeJackByte/SpadeJackByte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
